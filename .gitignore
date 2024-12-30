@@ -1,0 +1,8 @@
+venv
+.venv
+knn_pipeline_updated.pkl
+knn_pipeline.pkl
+label_encoder_updated.pkl
+label_encoder.pkl
+rf_pipeline.pkl
+.DS_Store
